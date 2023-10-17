@@ -1,0 +1,15 @@
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/bin/Debug/net7.0/HangmanGame
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/bin/Debug/net7.0/HangmanGame.deps.json
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/bin/Debug/net7.0/HangmanGame.runtimeconfig.json
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/bin/Debug/net7.0/HangmanGame.dll
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/bin/Debug/net7.0/HangmanGame.pdb
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/HangmanGame.csproj.AssemblyReference.cache
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/HangmanGame.AssemblyInfoInputs.cache
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/HangmanGame.AssemblyInfo.cs
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/HangmanGame.csproj.CoreCompileInputs.cache
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/HangmanGame.dll
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/refint/HangmanGame.dll
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/HangmanGame.pdb
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/HangmanGame.genruntimeconfig.cache
+/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/obj/Debug/net7.0/ref/HangmanGame.dll
