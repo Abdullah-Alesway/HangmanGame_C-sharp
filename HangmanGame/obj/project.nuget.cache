@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXwS4C22VQNzJfHr0/+vuyq8iDEWEGvQhYNfsv916bpHnrDtnKyek6YE9GTuudq7qPtXNiNCf7FBuW588uQRRA==",
+  "success": true,
+  "projectFilePath": "/home/abdullah/Courses/Projects/C#/HangmanGame/HangmanGame/HangmanGame.csproj",
+  "expectedPackageFiles": [
+    "/home/abdullah/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
